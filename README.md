@@ -161,10 +161,6 @@ Further resources:
       - [General-Purpose Machine Learning](#swift-general-purpose-machine-learning)
   - [TensorFlow](#tensorflow)
       - [General-Purpose Machine Learning](#tensorflow-general-purpose-machine-learning)
-      - - [OSEF](#osef-framework)
-    - [Operational Safety Supervision](#osef-operational-safety-supervision)
-- [MOFNet](#mofnet)
-    - [Medical Early Warning Systems](#mofnet-medical-early-warning)
       
 ### [Tools](#tools-1)
 
